@@ -1,0 +1,8 @@
+aiogram>=3.0.0
+aiohttp
+pytesseract
+opencv-python
+python-dotenv
+openai
+requests
+Pillow
