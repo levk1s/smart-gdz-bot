@@ -93,7 +93,7 @@ async def command_start_handler(message: Message, bot: Bot) -> None:
         "🧠 Працюю на базі ШІ Llama 4 Maverick\n"
         "💬 Пиши будь-які шкільні задачі або теми\n\n"
         "🛠️ Бот працює у режимі бета-версії\n\n"
-        "📞 Якщо є питання або знайшов баг — пиши @requnex_software",
+        "📞 Якщо є питання або знайшов баг — пиши @requnex",
         reply_markup=keyboard
     )
 
